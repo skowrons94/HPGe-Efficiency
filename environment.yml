@@ -9,5 +9,5 @@ dependencies:
     - scipy
     - matplotlib
     - lmfit
-    - numdifftool
+    - numdifftools
     - uncertainties
